@@ -94,4 +94,4 @@ lambdaの環境変数へセットする内容
 本プログラムについてのお問い合わせは `dev+api@icare.jpn.com` へご連絡ください。
 
 ### ライセンス
-[MIT](https://github.com/icare-jp-oss/carely-api-client-for-lambda-ruby/blob/main/LICENSE)
+[MIT](https://github.com/icare-jp-oss/carely-api-client-for-lambda-ruby/blob/master/LICENSE)
