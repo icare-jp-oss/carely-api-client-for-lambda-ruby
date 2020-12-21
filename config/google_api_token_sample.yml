@@ -1,0 +1,3 @@
+# 作成されたgoogle_api_token.ymlをセットしてください
+---
+default: '{"client_id":"google apiのclient idをセット","access_token":"アクセストークンをセット","refresh_token":"リフレッシュトークンをセット","scope":["https://www.googleapis.com/auth/spreadsheets.readonly"],"expiration_time_millis":1604566123000}'

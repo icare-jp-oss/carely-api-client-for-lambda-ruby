@@ -1,0 +1,5 @@
+---
+client_id: Carely APIのclient idをセット
+client_secret: Carely APIのclient secretをセット
+token: Carely APIのaccess tokenをセット
+refresh_token: Carely APIのrefresh tokenをセット

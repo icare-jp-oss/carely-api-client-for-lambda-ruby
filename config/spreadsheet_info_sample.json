@@ -1,0 +1,12 @@
+{
+  "development":
+  {
+    "spreadsheet_id": "ローカルテスト用のスプレッドシートのID",
+    "spreadsheet_name": "ローカルテスト用のスプレッドシート名"
+  },
+  "lambda":
+  {
+    "spreadsheet_id": "lambda用のスプレッドシートのID",
+    "spreadsheet_name": "lambda用のスプレッドシート名"
+  }
+}

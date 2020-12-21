@@ -1,0 +1,27 @@
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+## Environment normalization:
+/.bundle
+/vendor/bundle
+
+# credentials, token
+config/*.json
+!config/*sample.json
+config/*.yml
+!config/*sample.yml
+
+# zip
+*.zip
+
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+.idea/*
+.rake_tasks~
+.ruby-gemset
+Thumbs.db
